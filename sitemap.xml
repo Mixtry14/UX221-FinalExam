@@ -2,17 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/why-micro-hobby-kits-are-the-ultimate-stress-reliever/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/5-micro-hobbies-you-can-start-in-under-an-hour/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/the-science-behind-crafting-and-stress-relief/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/feeling-burnt-out-try-these-micro-hobby-kits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/how-micro-hobbies-can-improve-your-daily-routine/
         </loc>
     </url>
     <url>
@@ -37,7 +47,22 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/creative-doodling-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diy-matcha-ritual-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/street-photography-starter-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mini-zen-garden-kit/
         </loc>
     </url>
     <url>
